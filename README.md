@@ -1,4 +1,4 @@
-# Hospital-Dashboard-Project
+# Hospital-Dashboard-Project EXCEL.
 excel dashboards for hospital patient data analysis
 this respository contains daily hospital dashboards created in excel.
 ## Excel Files
